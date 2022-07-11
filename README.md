@@ -9,11 +9,11 @@ Realice una automatización de la página de Utest.com haciendo uso del patrón 
 El patrón Screenplay facilita en gran medida la reutilización de código gracias a la orientación a tareas.
 
 # herramientas usadas
-- Guión
-- Serenidad-BDD  
-- Pepino
-- Selenio
-- junit
+- Screenplay
+- Serenity-BDD 
+- Cucumber
+- Selenium
+- Junit
 
 # Requisitos
 El proyecto puede importarse en cualquier IDE de desarrollo, preferiblemente IntelliJ IDEA. Se trata de un proyecto Gradle y conviene tener instalado la última versión, al igual que el plugin de Cucumber.
