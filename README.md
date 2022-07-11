@@ -8,7 +8,7 @@ Realice una automatización de la página de Utest.com haciendo uso del patrón 
 # ¿Por qué utilizar el patrón Screenplay?
 El patrón Screenplay facilita en gran medida la reutilización de código gracias a la orientación a tareas.
 
-# herramientas usadas
+# herramientas utilizadas
 - Screenplay
 - Serenity-BDD 
 - Cucumber
